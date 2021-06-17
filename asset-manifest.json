@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-payments/static/css/main.e3044ee8.chunk.css",
+    "main.css": "/react-payments/static/css/main.0c4774af.chunk.css",
     "main.js": "/react-payments/static/js/main.ea2572d5.chunk.js",
     "main.js.map": "/react-payments/static/js/main.ea2572d5.chunk.js.map",
     "runtime~main.js": "/react-payments/static/js/runtime~main.df008c84.js",
@@ -8,8 +8,8 @@
     "static/js/2.06ebd165.chunk.js": "/react-payments/static/js/2.06ebd165.chunk.js",
     "static/js/2.06ebd165.chunk.js.map": "/react-payments/static/js/2.06ebd165.chunk.js.map",
     "index.html": "/react-payments/index.html",
-    "precache-manifest.c469a8f1eedf3f5c0ba0905862fa0c3b.js": "/react-payments/precache-manifest.c469a8f1eedf3f5c0ba0905862fa0c3b.js",
+    "precache-manifest.89f2eb7b9ac4acc43cb965d1c4e5c0a1.js": "/react-payments/precache-manifest.89f2eb7b9ac4acc43cb965d1c4e5c0a1.js",
     "service-worker.js": "/react-payments/service-worker.js",
-    "static/css/main.e3044ee8.chunk.css.map": "/react-payments/static/css/main.e3044ee8.chunk.css.map"
+    "static/css/main.0c4774af.chunk.css.map": "/react-payments/static/css/main.0c4774af.chunk.css.map"
   }
 }
