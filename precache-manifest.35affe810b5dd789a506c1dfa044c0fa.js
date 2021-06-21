@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "060493863ef798d63dd0cf951d8f6953",
+    "revision": "6d7646f000ae1b859e3d5bb8504e7b97",
     "url": "/react-payments/index.html"
   },
   {
-    "revision": "a4d0456e9f596f983b03",
+    "revision": "089d54ca7ed1b1afe79b",
     "url": "/react-payments/static/css/main.4b0e398c.chunk.css"
   },
   {
-    "revision": "a44305a2447ebd1b7527",
-    "url": "/react-payments/static/js/2.a07959bb.chunk.js"
+    "revision": "72a56f71a0947a43e56d",
+    "url": "/react-payments/static/js/2.6a58dba6.chunk.js"
   },
   {
-    "revision": "a4d0456e9f596f983b03",
-    "url": "/react-payments/static/js/main.34ef4f47.chunk.js"
+    "revision": "089d54ca7ed1b1afe79b",
+    "url": "/react-payments/static/js/main.6c459a33.chunk.js"
   },
   {
     "revision": "e92d155d5799229562b9",
