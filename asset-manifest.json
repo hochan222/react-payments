@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-payments/static/css/main.4b0e398c.chunk.css",
-    "main.js": "/react-payments/static/js/main.6c459a33.chunk.js",
-    "main.js.map": "/react-payments/static/js/main.6c459a33.chunk.js.map",
+    "main.css": "/react-payments/static/css/main.2550c127.chunk.css",
+    "main.js": "/react-payments/static/js/main.04977e09.chunk.js",
+    "main.js.map": "/react-payments/static/js/main.04977e09.chunk.js.map",
     "runtime~main.js": "/react-payments/static/js/runtime~main.df008c84.js",
     "runtime~main.js.map": "/react-payments/static/js/runtime~main.df008c84.js.map",
     "static/js/2.6a58dba6.chunk.js": "/react-payments/static/js/2.6a58dba6.chunk.js",
     "static/js/2.6a58dba6.chunk.js.map": "/react-payments/static/js/2.6a58dba6.chunk.js.map",
     "index.html": "/react-payments/index.html",
-    "precache-manifest.35affe810b5dd789a506c1dfa044c0fa.js": "/react-payments/precache-manifest.35affe810b5dd789a506c1dfa044c0fa.js",
+    "precache-manifest.0172b3a44b627712dc7b4d63db6fc9ce.js": "/react-payments/precache-manifest.0172b3a44b627712dc7b4d63db6fc9ce.js",
     "service-worker.js": "/react-payments/service-worker.js",
-    "static/css/main.4b0e398c.chunk.css.map": "/react-payments/static/css/main.4b0e398c.chunk.css.map"
+    "static/css/main.2550c127.chunk.css.map": "/react-payments/static/css/main.2550c127.chunk.css.map"
   }
 }
